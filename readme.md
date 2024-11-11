@@ -152,6 +152,8 @@ create merge commitを押す
 
 これをリモートからプルして、一周完了です。
 
+![alt text](image-18.png)
+
 
 
 
