@@ -42,7 +42,21 @@ git push -u origin main
 
 ![alt text](image-2.png)
 
+コミットメッセージを入力してコミットを押す。
+
 ---
 
+### githubにリモートリポジトリを作成する
+
+![alt text](image-3.png)
+
+
+
+
+
+
+
+
+---
 ### git push -u origin main
 
