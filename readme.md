@@ -126,12 +126,19 @@ vscodeの拡張機能でgithub pull requestsをインストールする
 
 ![alt text](image-15.png)
 
-merge pull requestを押すと完了です。
+merge pull requestを押す
 
 
 ![alt text](image-16.png)
 
-
+create merge commitを押す
 
 ![alt text](image-17.png)
+
+コミット完成しました。ここでfutureブランチを消すこともできます。
+
+---
+
+### mainブランチに戻り、マージした差分をローカルにプルする
+
 
