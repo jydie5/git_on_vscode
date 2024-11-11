@@ -110,5 +110,21 @@ futureでもリモートブランチを作成しておきます。
 
 ---
 
-### 
+### プルリクエスト（分岐したブランチをmain,masterにマージする）
+
+vscodeの拡張機能でgithub pull requestsをインストールする
+
+![alt text](image-12.png)
+
+![alt text](image-13.png)
+
+上記拡張機能を入れるとこの場所にプルリクエストボタンが出ます。
+
+![alt text](image-14.png)
+
+プルリクエスト作成画面になります。
+
+![alt text](image-15.png)
+
+merge pull requestを押すと完了です。
 
