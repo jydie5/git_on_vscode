@@ -19,6 +19,13 @@ git push -u origin main
 git checkout -b 新しいブランチ
 git switch -c 新しいブランチ
 
+#ブランチの移動
+git checkout ブランチ名
+git switch ブランチ名
+
+
+
+
 
 ```
 
@@ -103,5 +110,5 @@ futureでもリモートブランチを作成しておきます。
 
 ---
 
-
+### 
 
