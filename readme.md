@@ -129,3 +129,9 @@ vscodeの拡張機能でgithub pull requestsをインストールする
 merge pull requestを押すと完了です。
 
 
+![alt text](image-16.png)
+
+
+
+![alt text](image-17.png)
+
